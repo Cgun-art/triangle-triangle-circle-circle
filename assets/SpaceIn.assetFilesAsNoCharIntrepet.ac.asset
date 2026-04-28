@@ -1,0 +1,8 @@
+AIR CONDITIONING FILE = FALSE
+ASSET CORRECTION FILE = TRUE
+
+if char( ), Then.RemoveChar
+
+return true
+
+:: ASSET ::
