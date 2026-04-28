@@ -6,6 +6,8 @@ It uses GitHub lol.
 
 you should use the source code & port it!
 
+PLEASE COMPILE IT YOURSELF.
+
 consoles that should be ported:
 XBOX One
 XBOX Series
